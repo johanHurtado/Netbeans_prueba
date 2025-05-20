@@ -1,4 +1,4 @@
-//hola perros
+
 package edu.usta.clases;
 
 import edu.usta.interfaces.Lista;
