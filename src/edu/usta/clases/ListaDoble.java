@@ -174,7 +174,7 @@ public class ListaDoble implements Lista{
         }
         return eliminado;
 
-        
+      //hola jajajaj  
     }
 
     @Override
